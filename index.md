@@ -1,6 +1,6 @@
-## Research
+# Research
 
-### Working Papers
+## Working Papers
 
 * [Partially Directed Search in the Labor Market](files/PartiallyDirectedSearch_LW_April30.pdf) <br/>
 **April 2020**
@@ -18,7 +18,7 @@ with *Jeremy Pearce* and *Kyle Kost*
 with *Jeremy Pearce* 
 
 
-### Work in Progress
+## Work in Progress
 
 * Assortative Matching and Partially Directed Search 
 
