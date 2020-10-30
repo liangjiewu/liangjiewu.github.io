@@ -3,7 +3,7 @@
 
 ## Working Papers
 
-* [Partially Directed Search in the Labor Market](files/PartiallyDirectedSearch_LW_April30.pdf) <br/>
+* [Partially Directed Search in the Labor Market](files/ecta-pds-final.pdf) <br/>
 **April 2020**
 
 
