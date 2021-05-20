@@ -18,6 +18,10 @@ with *Jeremy Pearce* and *Kyle Kost*
 **November 2019**<br/>
 with *Jeremy Pearce* 
 
+* [Diffusion on a Sorted Network](files/sorting_draft_mar.pdf)<br/>
+**Mar 2020**<br/>
+with *Robert Shimer* 
+
 
 ## Work in Progress
 
