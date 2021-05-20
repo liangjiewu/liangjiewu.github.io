@@ -12,15 +12,15 @@
 **March 2020**<br/>
 with *Jeremy Pearce* and *Kyle Kost*
 
+* [Diffusion on a Sorted Network](files/sorting_draft_mar.pdf)<br/>
+**Mar 2020**<br/>
+with *Robert Shimer* 
 
 
 * [Matching, Wages, and Teams: A Quantitative Framework](files/pearce_wu_optimal_teams_paper_111619.pdf)<br/>
 **November 2019**<br/>
 with *Jeremy Pearce* 
 
-* [Diffusion on a Sorted Network](files/sorting_draft_mar.pdf)<br/>
-**Mar 2020**<br/>
-with *Robert Shimer* 
 
 
 ## Work in Progress
