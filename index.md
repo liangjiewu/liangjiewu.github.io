@@ -3,8 +3,8 @@
 
 ## Working Papers
 
-* [Partially Directed Search in the Labor Market](files/ecta-pds-final.pdf) <br/>
-**April 2020**
+* [Partially Directed Search in the Labor Market](files/LW-PDS.pdf) <br/>
+**September 2021**
 
 
 
