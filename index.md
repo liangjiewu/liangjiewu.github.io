@@ -3,7 +3,7 @@
 
 ## Working Papers
 
-* [Partially Directed Search in the Labor Market](files/LW-PDS.pdf) <br/>
+* [Partially Directed Search in the Labor Market (R&R Journal of Economic Theory)](files/LW-PDS.pdf) <br/>
 **September 2021**
 
 * [Diffusion on a Sorted Network](files/sorting_draft_mar.pdf)<br/>
