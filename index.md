@@ -3,6 +3,10 @@
 
 ## Working Papers
 
+* [Product Reallocation and Market Concentration](files/TM_PW_090222.pdf)<br/>
+**September 2022**<br/>
+with *Jeremy Pearce* 
+
 * [Partially Directed Search in the Labor Market](files/LW-PDS.pdf) <br/>
 **September 2021 (R&R Journal of Economic Theory)**
 
