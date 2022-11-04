@@ -3,7 +3,7 @@
 
 ## Working Papers
 
-* [Product Reallocation and Market Concentration](files/TM_PW_oct22.pdf) <br/>
+* [Product Reallocation and Market Concentration](files/PW_brands110122.pdf) <br/>
 **October 2022 (First Draft August 2021)** <!-- [Appendix](files/tm_pw_apx_oct22.pdf) -->
 
 * [Partially Directed Search in the Labor Market](files/LW-PDS.pdf) <br/>
