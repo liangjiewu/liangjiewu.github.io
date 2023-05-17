@@ -5,6 +5,8 @@
 
 * [Brand Reallocation, Concentration ,and Growth](files/PW_010923.pdf) <br/>
 **October 2022 (First Draft August 2021. Previously circulated as "Product Reallocation and Market Concentration")** [Appendix](files/tm_pw_apx_oct22.pdf)
+with *Jeremy Pearce*
+
 
 * [Partially Directed Search in the Labor Market](files/LW-PDS.pdf) <br/>
 **September 2021 (R&R Journal of Economic Theory)**
