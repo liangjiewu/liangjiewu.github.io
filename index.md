@@ -3,6 +3,10 @@
 
 ## Working Papers
 
+* [Assortative Matching with Private Information](files/two-sided-as-2023-07-20.pdf) <br/>
+**August 2023 
+with *Robert Shimer*
+
 * [Brand Reallocation, Concentration ,and Growth](files/PW_010923.pdf) <br/>
 **October 2022 (First Draft August 2021. Previously circulated as "Product Reallocation and Market Concentration")** [Appendix](files/tm_pw_apx_oct22.pdf)
 with *Jeremy Pearce*
