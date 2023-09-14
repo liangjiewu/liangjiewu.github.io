@@ -3,7 +3,7 @@
 
 ## Working Papers
 
-* [Assortative Matching with Private Information](files/two-sided-as-2023-07-20.pdf) <br/>
+* [Assortative Matching with Private Information](files/two-sided-as-2023-09-13.pdf) <br/>
 **August 2023**<br/>
 with *Robert Shimer*
 
