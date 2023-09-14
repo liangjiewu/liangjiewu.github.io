@@ -4,7 +4,7 @@
 ## Working Papers
 
 * [Assortative Matching with Private Information](files/two-sided-as-2023-09-13.pdf) <br/>
-**August 2023**<br/>
+**September 2023 (First draft August 2023)**<br/>
 with *Robert Shimer*
 
 * [Brand Reallocation, Concentration ,and Growth](files/PW_010923.pdf) <br/>
