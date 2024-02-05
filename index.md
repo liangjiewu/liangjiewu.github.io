@@ -13,7 +13,7 @@ with *Jeremy Pearce*
 
 
 * [Partially Directed Search in the Labor Market](files/LW-PDS.pdf) <br/>
-**September 2021 (R&R Journal of Economic Theory)**
+**September 2021 (Conditionally Accepted Journal of Economic Theory)**
 
 * [Diffusion on a Sorted Network](files/sorting_draft_mar.pdf)<br/>
 **March 2021**<br/>
