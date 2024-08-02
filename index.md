@@ -4,7 +4,7 @@
 ## Working Papers
 
 * [Brand Reallocation and Market Concentration](files/PW_BrandReallocation_080224.pdf) <br/>
-**August 2024 (First Draft August 2021.)** [Appendix](files/tm_pw_apx_oct22.pdf)
+**August 2024 (First Draft August 2021.)**
 with *Jeremy Pearce*
 
 * [Digital Platform Acquisitions and Growth](files/dpag.pdf) <br/>
