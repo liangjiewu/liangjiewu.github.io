@@ -11,8 +11,8 @@ with *Jane Olmstead-Rumsey and Federico Puglisi*
 **September 2023 (First draft August 2023)**<br/>
 with *Robert Shimer*
 
-* [Brand Reallocation, Concentration ,and Growth](files/PW_010923.pdf) <br/>
-**October 2022 (First Draft August 2021. Previously circulated as "Product Reallocation and Market Concentration")** [Appendix](files/tm_pw_apx_oct22.pdf)
+* [Brand Reallocation and Market Concentration](files/PW_BrandReallocation_080224.pdf) <br/>
+**October 2022 (First Draft August 2021.)** [Appendix](files/tm_pw_apx_oct22.pdf)
 with *Jeremy Pearce*
 
 
