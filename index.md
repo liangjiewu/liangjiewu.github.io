@@ -11,7 +11,7 @@ with *Jeremy Pearce*
 * [Merger Policy for Platforms: A Growth Theory Perspective](files/mna.pdf) <br/>
 with *Jane Olmstead-Rumsey and Federico Puglisi*
 
-* [Assortative Matching with Private Information](files/two-sided-as-2023-09-13.pdf) <br/>
+* [Assortative Matching with Private Information](files/sorting_privateinfo.pdf) <br/>
 with *Robert Shimer*
 
 * [Diffusion on a Sorted Network](files/sorting_draft_mar.pdf)<br/>
