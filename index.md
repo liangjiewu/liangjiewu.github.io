@@ -8,7 +8,7 @@
 * [Market Concentration and Aggregate Productivity: The Role of Demand](files/PW_demand.pdf) <br/>
 with *Jeremy Pearce*
 
-* [The Labor Demand Implications of Brand Capital: Insights from Trademark Transactions in Italy](files/250611_arellano-bover_bussotti_paradisi_wu.pdf) <br/>
+* [The Labor Demand Implications of Brand Capital: Insights from Trademark Transactions in Italy](files/Brands.pdf) <br/>
 with *Jaime Arellano-Bover, Carolina Bussotti, and Matteo Paradisi*
 
 * [Brand Reallocation and Market Concentration](files/PW_BrandReallocation_080224.pdf) <br/>
