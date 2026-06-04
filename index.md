@@ -5,7 +5,7 @@
   
 ## Working Papers
 * [Competitive Sorting with Bilateral Private Information](files/two-sided-as-2026-05-28.pdf) <br/>
-previously circulated as "Assortative Matching with Private Information". [Online Appendix](files/two-sided-as-2026-05-28-online-appendix.pdf)
+previously circulated as "Assortative Matching with Private Information". [Online Appendix](files/two-sided-as-2026-05-28-online-appendix.pdf) <br/>
 with *Robert Shimer*
 
 * [The Labor Demand Implications of Brand Capital: Evidence from Trademark Transactions](files/Brands.pdf) <br/>
