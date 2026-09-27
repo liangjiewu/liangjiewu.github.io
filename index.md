@@ -11,9 +11,9 @@ with *Robert Shimer*
 * [The Labor Demand Implications of Brand Capital: Evidence from Trademark Transactions](files/Brands.pdf) <br/>
 with *Jaime Arellano-Bover, Carolina Bussotti, and Matteo Paradisi*
 
-* [Merger Policy for Platforms: A Growth Theory Perspective](files/mna.pdf) <br/>
+* [Merger Policy for Platforms: A Growth Theory Perspective](files/mna.pdf) (Revise & Resubmit at AEJ: Macroeconomics) <br/>
 with *Jane Olmstead-Rumsey and Federico Puglisi*
-(Revise & Resubmit at AEJ: Macroeconomics)
+
 
 * [Market Concentration and Aggregate Productivity: The Role of Demand](files/PW_demand.pdf) <br/>
 with *Jeremy Pearce*
