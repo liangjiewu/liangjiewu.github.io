@@ -13,6 +13,7 @@ with *Jaime Arellano-Bover, Carolina Bussotti, and Matteo Paradisi*
 
 * [Merger Policy for Platforms: A Growth Theory Perspective](files/mna.pdf) <br/>
 with *Jane Olmstead-Rumsey and Federico Puglisi*
+(Revise & Resubmit at AEJ: Macroeconomics)
 
 * [Market Concentration and Aggregate Productivity: The Role of Demand](files/PW_demand.pdf) <br/>
 with *Jeremy Pearce*
